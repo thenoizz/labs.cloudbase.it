@@ -11,7 +11,7 @@ end
 
 http_path = "/" 
 sass_dir = "./" 
-css_dir = "../css" 
+css_dir = "../../labs.cloudbase.it-pages/css" 
 images_dir = "../img" 
 javascripts_dir = "../js" 
 
