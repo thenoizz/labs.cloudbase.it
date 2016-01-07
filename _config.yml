@@ -31,14 +31,14 @@ google-tracking-id: ""
 
 lang: "en"
 author: "Cloudbase Solutions"
-title: "{ Cloudbase LABS }"
+title: "Cloudbase LABS"
 description: >
   We are bringing OpenStack to the classroom and as part of our effort
   we will teach, mentor and assist a group of 15 students.
 keywords: "windows, linux, python, bash, powershell, openstack, hyper-v"
 
 favicon: "/img/favicon.ico"
-logo: "/img/logo.png"
+logo: "/img/labs_CBSL_Logo_2016_RGB.png"
 
 404-img: "/img/labtocat.png"
 web-app-mode: True
